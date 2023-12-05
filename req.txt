@@ -1,0 +1,17 @@
+numpy
+torch
+torchvision
+opencv-python
+onnx
+onnxruntime-gpu
+mxnet
+scikit-image
+insightface
+requests
+kornia
+dill
+wandb
+fastapi
+uvicorn
+gunicorn
+pillow
